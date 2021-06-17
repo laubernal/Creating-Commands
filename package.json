@@ -1,0 +1,23 @@
+{
+  "name": "List-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laubernal/List-command.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/laubernal/List-command/issues"
+  },
+  "homepage": "https://github.com/laubernal/List-command#readme"
+}
