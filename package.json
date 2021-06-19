@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/laubernal/List-command/issues"
   },
-  "homepage": "https://github.com/laubernal/List-command#readme"
+  "homepage": "https://github.com/laubernal/List-command#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
 }
