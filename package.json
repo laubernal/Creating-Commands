@@ -14,7 +14,8 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "nls": "index.js"
+    "nls": "nls.js",
+    "emekadir": "emekadir.js"
   },
   "bugs": {
     "url": "https://github.com/laubernal/List-command/issues"
